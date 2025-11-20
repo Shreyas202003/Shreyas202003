@@ -1,6 +1,5 @@
 # 💫 About Me:
 🔭 I’m currently working on developing my skills🤖<br>🌱 I’m currently learning computer science<br>⚡ Fun fact you don't know about me 😎
-<img align="right" width="250px" height="200px" src="https://media1.tenor.com/m/pRn6wYY6tgEAAAAC/zoro.gif">
 
 
 ## 🌐 Socials:
